@@ -1,0 +1,20 @@
+{
+  "name": "commands",
+  "version": "0.0.1",
+  "description": "This module add the possibility to Gladys to execute some commands to Gladys and the system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "commands",
+    "module",
+    "shutdown",
+    "reboot",
+    "restart",
+    "reload"
+  ],
+  "author": "Nicolas Augereau"
+
+}
