@@ -13,9 +13,9 @@ Getting Started
 ---------------
 #### Gladys parameters
 
-Add followings parameters in gladys :
+Add following parameters in gladys :
 
-For my raspberry I use following parameters but you can change them :
+Examples for Raspberry PI :
 ```
 SHUTDOWN_CMD=sudo shutdown -h now
 ```
