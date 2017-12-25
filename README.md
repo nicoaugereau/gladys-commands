@@ -1,6 +1,6 @@
 # gladys-commands
 
-This module add the possibility to Gladys to execute commands, like Restart, Reboot, Shutdown.
+This module add the possibility to Gladys to execute commands, like Restart, Reboot, Shutdown.<br>
 The module can restart Gladys, Gladys Bluetooth and Gladys Voice modules
 
 Prerequisites
@@ -34,23 +34,23 @@ RESTART_BT_CMD=sudo pm2 restart gladys-bluetooth
 
 
 #### Sentences added in the brain :
-French sentences :
-Eteins-toi
-Redémarre
-Relance-toi
-Redémarre Bluetooth
-Redémarre le module Bluetooth
-Redémarre Voice
-Redémarre le module Voice
+French sentences :<br>
+Eteins-toi<br>
+Redémarre<br>
+Relance-toi<br>
+Redémarre Bluetooth<br>
+Redémarre le module Bluetooth<br>
+Redémarre Voice<br>
+Redémarre le module Voice<br>
 
-English sentences :
-Shutdown
-Reboot
-Restart
-Restart Bluetooth
-Restart Bluetooth module
-Restart Voice
-Restart Voice module
+English sentences :<br>
+Shutdown<br>
+Reboot<br>
+Restart<br>
+Restart Bluetooth<br>
+Restart Bluetooth module<br>
+Restart Voice<br>
+Restart Voice module<br>
 
 ####
 
