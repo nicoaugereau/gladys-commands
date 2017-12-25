@@ -1,5 +1,4 @@
 # gladys-commands
-=======================
 
 This module add the possibility to Gladys to execute commands, like Restart, Reboot, Shutdown.
 The module can restart Gladys, Gladys Bluetooth and Gladys Voice modules
