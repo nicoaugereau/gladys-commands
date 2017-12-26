@@ -26,7 +26,7 @@ REBOOT_CMD=sudo reboot
 RESTART_CMD=sudo pm2 restart gladys
 ```
 ```
-RESTART_VOICE_CMD=sudo pm2 restart gladyd-voice
+RESTART_VOICE_CMD=sudo pm2 restart gladys-voice
 ```
 ```
 RESTART_BT_CMD=sudo pm2 restart gladys-bluetooth
