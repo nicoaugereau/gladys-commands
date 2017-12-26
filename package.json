@@ -12,8 +12,7 @@
     "module",
     "shutdown",
     "reboot",
-    "restart",
-    "reload"
+    "restart"
   ],
   "author": "Nicolas Augereau"
 
