@@ -9,6 +9,10 @@ var commands = require('./lib/commands.command.js');
 
 module.exports = function(sails) {
 
+	gladys.on('ready', function(){
+        install();
+    });
+
 	return {
 		install: install,
 		uninstall: uninstall,
