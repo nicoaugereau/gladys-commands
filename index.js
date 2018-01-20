@@ -5,7 +5,7 @@ var reboot = require('./lib/reboot.js');
 var restart = require('./lib/restart.js');
 var restartBluetooth = require('./lib/restartBluetooth.js');
 var restartVoice = require('./lib/restartVoice.js');
-var commands = require('./lib/commands.command.js');
+var command = require('./lib/commands.command.js');
 
 module.exports = function(sails) {
 
@@ -21,6 +21,6 @@ module.exports = function(sails) {
 		restart: restart,
 		restartBluetooth: restartBluetooth,
 		restartVoice: restartVoice,
-		commands: commands
+		command: command
 	};
 };
