@@ -13,7 +13,7 @@ Getting Started
 ---------------
 #### Gladys parameters
 
-Add following parameters in gladys :
+The following parameters are automatically added in gladys. You can change them if necessary.
 
 Examples for Raspberry PI :
 ```
