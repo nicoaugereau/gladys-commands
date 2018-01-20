@@ -18,17 +18,9 @@ The following parameters are automatically added in gladys. You can change them 
 Examples for Raspberry PI :
 ```
 SHUTDOWN_CMD=sudo shutdown -h now
-```
-```
 REBOOT_CMD=sudo reboot
-```
-```
 RESTART_CMD=sudo pm2 restart gladys
-```
-```
 RESTART_VOICE_CMD=sudo pm2 restart gladys-voice
-```
-```
 RESTART_BT_CMD=sudo pm2 restart gladys-bluetooth
 ```
 
