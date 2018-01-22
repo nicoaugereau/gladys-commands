@@ -14,6 +14,7 @@ Getting Started
 #### Gladys parameters
 
 The following parameters are automatically added in gladys. You can change them if necessary.
+After install and reboot, click "Train the brain" on Brain page.
 
 Examples for Raspberry PI :
 ```
