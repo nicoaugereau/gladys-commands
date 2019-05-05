@@ -6,7 +6,7 @@ The module can restart Gladys, Gladys Bluetooth and Gladys Voice modules
 Prerequisites
 -------------
 
-- [Gladys](http://gladysproject.com) ( tested with v3.7.3 )
+- [Gladys](http://gladysassistant.com) ( tested with v3.7.3 )
 
  
 Getting Started
@@ -50,6 +50,6 @@ Restart Voice module<br>
 What is Gladys project
 -------------
 
-**Website :** [https://gladysproject.com](http://gladysproject.com) <br>
-**Community :** [https://community.gladysproject.com/](https://community.gladysproject.com/)
+**Website :** [https://gladysassistant.com](http://gladysassistant.com) <br>
+**Community :** [https://community.gladysassistant.com/](https://community.gladysassistant.com/)
 
